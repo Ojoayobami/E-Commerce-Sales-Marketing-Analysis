@@ -19,7 +19,7 @@ During the cleaning phase, several adjustments were made to ensure the dataset w
 |------|-------------|--------------|
 | Removed Duplicates | Ensured each record was unique | Used `Remove Duplicates` (Power Query / Excel) |
 | Corrected Data Types | Converted fields to appropriate formats | Revenue, Marketing Spend, Units Sold ➝ Number |
-| Fixed Incorrect Date Format | Date column was inconsistent (e.g., `1/1/2023 12:00 AM` vs. `13-01-2023`) and imported as text | Trimmed spaces → Split date/time → Converted to date type → Standardized to `mm/yy/yyyy` |
+| Fixed Incorrect Date Format | Date column was inconsistent (e.g., `1/1/2023 12:00 AM` vs. `13-01-2023`) and imported as text | Trimmed spaces → Split date/time → Converted to date type → Standardized to `mm/dd/yyyy` |
 
 These steps ensured the dataset was clean, consistent, and ready for visualization and model building.
 
