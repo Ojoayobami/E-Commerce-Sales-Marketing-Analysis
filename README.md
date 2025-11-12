@@ -219,5 +219,3 @@ These statistical results validate the impact of marketing spend on revenue and 
 > Prioritize **high ROI categories**, target **Regular & Premium customers** with personalized offers, and run **seasonal marketing during peak months** to improve total revenue without overspending.
 
 ## Main Dashboard
-
-![Business Dashboard.E-Commerce Dashboard.png
