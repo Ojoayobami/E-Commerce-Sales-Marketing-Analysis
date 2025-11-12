@@ -109,8 +109,7 @@ To better understand the relationship between marketing activity, revenue perfor
 
 These statistical results validate the impact of marketing spend on revenue and highlight where the business should focus its efforts for maximum ROI.
 
-# INSIGHTS & RECOMMENDATIONS
-*(Based on the final dataset)*
+## 🧠 INSIGHTS & RECOMMENDATIONS
 
 ---
 
@@ -218,3 +217,7 @@ These statistical results validate the impact of marketing spend on revenue and 
 ### 🚀 Final Strategic Focus
 
 > Prioritize **high ROI categories**, target **Regular & Premium customers** with personalized offers, and run **seasonal marketing during peak months** to improve total revenue without overspending.
+
+## Main Dashboard
+
+![Business Dashboard](images/dashboard.png)
