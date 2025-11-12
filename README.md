@@ -220,4 +220,4 @@ These statistical results validate the impact of marketing spend on revenue and 
 
 ## Main Dashboard
 
-![Business Dashboard](images/dashboard.png)
+![Business Dashboard.E-Commerce Dashboard.png
